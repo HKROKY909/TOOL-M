@@ -9,4 +9,6 @@ $ pkg install git
 $ rm -rf TOOL-M
 $ git clone https://github.com/HKROKY909/TOOL-M
 $ cd TOOL-M
-$ python 
+$ python mosiur-m.py
+
+# Thanks All (💝)
